@@ -8,7 +8,8 @@ This is just a Python package containing code from Daniele Varrazzo's
 
 ## Installation
 
-    pip install gevent-psycopg2
+    if you not install from: pip install gevent-psycopg2
+    use: pip install git+https://github.com/SamolazovRoman/gevent-psycopg2.git
 
 
 ## Usage
